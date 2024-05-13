@@ -1,5 +1,5 @@
-@media only screen and (max-width: 800px) {    /* Your mobile-specific styles go here */
-    .navbar .container .navbar-brand img {
+@media only screen and (max-width: 768px) {
+    .navbar .container .navbar-brand a img {
         width: 50%;
         height: auto;
         margin-right: 0rem !important;
